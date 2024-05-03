@@ -1,9 +1,9 @@
-# CarouselOfImages
+# Carousel of Images
 
 ![alt text](image.png)
 
-## Desafio de Galeria de imagens
+## Gallery challenge 
 
-# Criei um carrossel de imagens de motos
+### I created a carousel of motorbike images
 
 ![alt text](image-1.png)
