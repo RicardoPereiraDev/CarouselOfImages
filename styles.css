@@ -99,3 +99,16 @@ body{
 .pagination .page.active {
     background-color: red;
 }
+
+.banner{
+    background-color: aliceblue;
+    width: 1600px;
+}
+
+@media screen and (max-width:425px){
+
+    .banner{
+width: 320px;
+background-color:grey;
+    }
+}
